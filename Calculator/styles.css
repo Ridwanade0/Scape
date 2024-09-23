@@ -1,0 +1,72 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      user-select: none;
+}
+body {
+      display: flex;
+      height: 100vh;
+      justify-content: center;
+      align-items: center;
+      background-color: #1b1a1a;
+}
+#container {
+      width: 400px;
+      height: 500px;
+      background-color: #020223;
+      display: grid;
+      grid-template-rows: 20% 80%;
+
+}
+#view {
+      width: 100%;
+      background-color: #888850;
+      padding: 5px;
+      font-size: xxx-large;
+      text-align: end;
+      padding-top: 37px;
+      overflow-x: auto;
+      overflow-y: hidden;
+
+}
+#controls {
+      width: 100%;
+      background-color: black;
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      gap: 15px;
+      padding: 8px;
+}
+#clear {
+      background-color: red;
+      border: none;
+}
+#clear:hover {
+      cursor: pointer;
+      background-color: #960606;
+}
+.controls, .operators, .func {
+      border: 1px solid goldenrod;
+      font-size: larger;
+      font-weight: 600;
+      color: white;
+      text-align: center;
+      padding-top: 20px;
+}
+.controls:hover, .operators:hover, .func:hover {
+      background-color: #04041d;
+      cursor: pointer;
+}
+.validator {
+      background-color: blue;
+      font-size: larger;
+      font-weight: 600;
+      color: white;
+      text-align: center;
+      padding-top: 20px;
+}
+.validator:hover {
+      cursor: pointer;
+      background-color: #030376;
+}
