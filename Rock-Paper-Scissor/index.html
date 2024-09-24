@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Rock Paper Scissors</title>
+  </head>
+  <body>
+    <div class="container">
+      <!-- score container, contains two div element for actuall score record -->
+      <div id="score-container">
+        <div class="score-record">
+          <span class="score" id="human-score"> 00 </span>
+          <span> You </span>
+        </div>
+        <div class="score-record">
+          <span class="score" id="computer-score">00</span>
+          <span>Computer</span>
+        </div>
+      </div>
+      <!-- Game interface -->
+      <div class="game-interface">
+        <div class="deck" id="computer-guess">
+          ---
+        </div>
+        <div id="result">---</div>
+        <div class="deck" id="human-guess">
+         ---
+        </div>
+      </div>
+      <!-- User game control or let me say button -->
+      <div class="controls">
+        <button class="control" id="rock">Rock</button>
+        <button class="control" id="paper">Paper</button>
+        <button class="control" id="scissors">Scissors</button>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>

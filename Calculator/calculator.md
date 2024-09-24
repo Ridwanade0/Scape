@@ -2,7 +2,7 @@
 I jut built this calculator to test my knowledge with, javascript, in the end it wanst professional either way still looked like an amatuer code. I dont even totaly understand what i wrote. 
 
 But at least this the first actuall code i wrote in javascript that is really natural and show what i have known.
--
+
 ## Key Take Away
 
 Here are the key take aways for this project so as to prepare for the next one and know what else needs to learn and improve on.
@@ -17,4 +17,4 @@ Here are the key take aways for this project so as to prepare for the next one a
 
 This project that i did shows i still have a long way to go with programming language there are a lot i have to understand, and i need to always try as much as i can to solve more problem and do more projects as it will gives me more understanding on the programming lanaguage and improve my problem solving capabilities.
 
-Next project coming on, in this next project i will build a <b>Rock Paper Scissors</b> game, i guess this isn't as complex and hard as building a calculator, actually i can say that because i have built that before, though i followed a tutorial video when doing that. so Next up is <b>Rock Paper Scissor</b>! Check it out here [Rock Paper Scissors Game (Project 2 JavaScript)]()
+Next project coming on, in this next project i will build a <b>Rock Paper Scissors</b> game, i guess this isn't as complex and hard as building a calculator, actually i can say that because i have built that before, though i followed a tutorial video when doing that. so Next up is <b>Rock Paper Scissor</b>! Check it out here [Rock Paper Scissors Game (Project 2 JavaScript)](../Rock-Paper-Scissor)
