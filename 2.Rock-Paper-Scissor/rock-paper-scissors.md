@@ -16,4 +16,4 @@ Yeah, probaly one of the simplest javascript project or game to build, though ca
 ---
 ### Conclusion
 
-My conlcusion is while I am trying to build this small project getting even more understanding on teh programming language. well see you in my next project check it out here its going to be a <b>Stop watch</b> [Stop Wacth](../Stop-Watch/)
+My conlcusion is while I am trying to build this small project getting even more understanding on teh programming language. well see you in my next project check it out here its going to be a <b>Stop watch</b> [Stop Wacth](../3.Stop-Watch/)

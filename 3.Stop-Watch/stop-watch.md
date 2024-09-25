@@ -19,4 +19,4 @@ clearInterval(interval)
 
 ### Conclusion
 
-Completing this project will make it three project i have done in total, its realy amazing moving on to the next one, and that will be ...<b>Password Generator</b>. Today and before i have learnt and saw things called <b>Regexp</b>, But i dont really know what is it and how to work with it. so in this next project i think i sure will be able to use Regexp in building the calculator, this will brush up my skills and knowledge in working with strings and Regexp. Next project is available at [Password Generator](../Password-Generator/)
+Completing this project will make it three project i have done in total, its realy amazing moving on to the next one, and that will be ...<b>Password Generator</b>. Today and before i have learnt and saw things called <b>Regexp</b>, But i dont really know what is it and how to work with it. so in this next project i think i sure will be able to use Regexp in building the calculator, this will brush up my skills and knowledge in working with strings and Regexp. Next project is available at [Password Generator](../4.Password-Generator/)
