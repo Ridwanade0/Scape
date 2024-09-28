@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "A currency conversion api that provide endpoint to different currency rate. Works by using other currency conversion api to create a new an extended api, that gives offers beyound what they offer. Implement security mesures via API Tokens, and rate limiting, uses sqlite for database.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "fetch-rates": "node rates/fetchRates.js",
+    "save-history": "node rates/saveHistory.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +26,13 @@
   "bugs": {
     "url": "https://github.com/Ridwanade0/Scape/issues"
   },
-  "homepage": "https://github.com/Ridwanade0/Scape/tree/main#readme"
+  "homepage": "https://github.com/Ridwanade0/Scape/tree/main#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
